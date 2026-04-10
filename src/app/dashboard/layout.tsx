@@ -7,6 +7,7 @@ const menuItems = [
   { href: "/dashboard", label: "الرئيسية", icon: "🏠" },
   { href: "/dashboard/listings", label: "الدليل", icon: "📋" },
   { href: "/dashboard/banners", label: "البنرات", icon: "🖼️" },
+  { href: "/dashboard/stories", label: "الستوريات", icon: "🎬" },
   { href: "/dashboard/ad-requests", label: "طلبات الإعلانات", icon: "📩" },
   { href: "/dashboard/job-offers", label: "الوظائف المعروضة", icon: "🏢" },
   { href: "/dashboard/jobs", label: "الباحثون عن عمل", icon: "👨‍💻" },
